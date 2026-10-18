@@ -43,6 +43,12 @@ done
 
 Результат — `Insert/TPL_translation.gba`.
 
+## Документация
+
+- [docs/REVERSE_ENGINEERING.md](docs/REVERSE_ENGINEERING.md) — карта проекта, форматы, адреса патчей и план порта на Android.
+- [docs/FONT_GUIDE.md](docs/FONT_GUIDE.md) — формат шрифта и правка атласа.
+- [docs/glossary.md](docs/glossary.md) — глоссарий перевода.
+
 ## Структура
 
 ```
