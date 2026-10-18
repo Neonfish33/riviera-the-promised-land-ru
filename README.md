@@ -66,7 +66,6 @@ Widths.txt    ширины глифов (180 значений)
 
 - [343github/Riviera_ThePromisedLand](https://github.com/343github/Riviera_ThePromisedLand) —
   Atlas-скрипты, извлечение/вставка шрифта, исходная структура проекта.
-- Menori Co. — оригинальный англоязычный перевод, с которого начинался порт.
 
 ## Правовой статус
 
