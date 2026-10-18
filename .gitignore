@@ -1,0 +1,23 @@
+# ROM / builds
+*.gba
+*.zip
+*.7z
+Insert/TPL.gba
+Insert/*.bak
+Insert/Atlas.exe
+
+# generated font/previews
+Font.png
+Font_*.png
+ATLAS_*.png
+preview*.png
+font_check.png
+cyr_check*.png
+word_check.png
+d_variants.png
+scratch.png
+
+# caches / intermediate translations
+__pycache__/
+work/
+result_*.json
